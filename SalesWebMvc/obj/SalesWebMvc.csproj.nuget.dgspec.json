@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Curso_Visual_Studio\\ProjetosVS\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\ProjetosVisualStudio\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "X:\\Curso_Visual_Studio\\ProjetosVS\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\ProjetosVisualStudio\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Curso_Visual_Studio\\ProjetosVS\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\ProjetosVisualStudio\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "X:\\Curso_Visual_Studio\\ProjetosVS\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "X:\\Curso_Visual_Studio\\ProjetosVS\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "projectPath": "C:\\ProjetosVisualStudio\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "packagesPath": "C:\\Users\\falei\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosVisualStudio\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\falei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
