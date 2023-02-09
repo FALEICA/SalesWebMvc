@@ -30,14 +30,15 @@
                 <td>@Html.DisplayFor(modelItemm => item.email)</td>
                 <td>@Html.DisplayFor(modelItemm => item.birthDate)</td>
                 <td>@Html.DisplayFor(modelItemm => item.baseSalary)</td>
+
                 <td>
-                    <a asp-action="edit" itemid="@item.id">edit</a>
+                    <a asp-action="Edit" asp-route-id="@item.id">edit</a>
                 </td>
                 <td>
-                    <a asp-action="details" itemid="@item.id">details</a>
+                    <a asp-action="Details" asp-route-id="@item.id">details</a>
                 </td>
                 <td>
-                    <a asp-action="delete" itemid="@item.id">delete</a>
+                    <a asp-action="Delete" asp-route-id="@item.id">delete</a>
                 </td>
             </tr>
 
